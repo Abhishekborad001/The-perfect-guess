@@ -1,2 +1,2 @@
 # The-perfect-guess
-This is a one type of game. in which if the player guess is higher then the actual number  , the program display "You guessed it wrong! Enter a smaller number" , similarly if student guess is low 
+This is a one type of game. in which if the player guess is higher then the actual number  , the program display "You guessed it wrong! Enter a smaller number" , similarly if student guess is low then program display "You guessed it wrong! Enter a larger number". when student guess correct number then program display "You guessed it right!". and at the end program will display you guessed the number in how many guesses.
